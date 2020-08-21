@@ -1,8 +1,8 @@
 let skills = [
-    {id: 1234, language: 'HTML', done: false},
-    {id: 1235, language: 'CSS', done: false},
-    {id: 1236, language: 'Javascript', done: false},
-    {id: 1237, language: 'Python', done: false}
+    {id: 1234, skill: 'HTML', done: false},
+    {id: 1235, skill: 'CSS', done: false},
+    {id: 1236, skill: 'Javascript', done: false},
+    {id: 1237, skill: 'Python', done: false}
 ];
 
 module.exports = {
